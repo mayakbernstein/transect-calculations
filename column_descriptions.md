@@ -11,7 +11,7 @@ This document outlines the naming structure used for columns in the [variable ca
 | Cover Summary Columns       | `pctcov_<CATEGORY>_<ZONE>`     | percent cover by category across different transect zones (whole, dune, or veg) |
 | Species-Level Cover Columns | `pctcov_<CODE>_<ZONE>`         | percent cover for specific cover types in different transect zones              |
 
-### To see the specifics on definitions for [zones], [Categories](#Components), and [Codes], see below.
+### To see the specifics on definitions for [zones], [Categories], and [Codes], see below.
 
 ## Zones
 
@@ -40,7 +40,7 @@ This document outlines the naming structure used for columns in the [variable ca
 
 ## Codes
 
-`<CODE>` = Species abbreviation / cover type. See the currently identified codes below or in [CSV format](speciescodes.csv).
+`<CODE>` = Species abbreviation / cover type. See the currently identified codes below or in [CSV format](codes.csv).
 
 | codetype           | code     | description                                                                                                                     | native |
 |--------------------|----------|---------------------------------------------------------------------------------------------------------------------------------|--------|
