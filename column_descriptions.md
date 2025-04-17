@@ -11,9 +11,9 @@ This document outlines the naming structure used for columns in the [variable ca
 | Cover Summary Columns       | `pctcov_<CATEGORY>_<ZONE>`     | percent cover by category across different transect zones (whole, dune, or veg) |
 | Species-Level Cover Columns | `pctcov_<CODE>_<ZONE>`         | percent cover for specific cover types in different transect zones              |
 
-### To see the specifics on definitions for [zones], [Categories], and [Codes], see below.
+### To see the specifics on definitions for [zones](#zones), [categories](#categories), and [codes](#codes), see below.
 
-## Zones
+## Zones {#zones}
 
 `<ZONE>` = The portion of the transect that the corresponding calculation is valid for. For percent cover calculations, the value of the denominator is determined by the zone.
 
@@ -23,7 +23,7 @@ This document outlines the naming structure used for columns in the [variable ca
 | `<dune>`  | Any column with `dune` in the title means the calculation is valid for the portion of the transect within the foredune, identified as the distance between the inland and seaward dune toes.                           |
 | `<veg>`   | Any column with `veg` in the title means the calculation is valid for the vegetated portion of the transect, identified as the distance between the most inland point measured and most seaward identified vegetation. |
 
-## Categories {#Components}
+## Categories {#categories}
 
 `<CATEGORY>` = General cover group. The categories are as follows:
 
@@ -38,7 +38,7 @@ This document outlines the naming structure used for columns in the [variable ca
 | `<TerrestrialPlantNonnative>` | Native terrestrial vegetation to California beach/dune ecosystems.                                               |
 | `<TerrestrialAnimal>`         | Terrestrial animal.                                                                                              |
 
-## Codes
+## Codes {#codes}
 
 `<CODE>` = Species abbreviation / cover type. See the currently identified codes below or in [CSV format](codes.csv).
 
