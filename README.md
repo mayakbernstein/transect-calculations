@@ -5,4 +5,4 @@
 
   Detailed descriptions of the variables calculated can be found in the [column_descriptions.md](column_descriptions.md) file. 
 
-  All work done here is for California Dune Science Network's Climate Action Fund project, working to standardize data collection and processing of vegetation sampling across coastal dune systems in california. For more information, visit the [Dune Science Network's Website](https://www.resilientcoastlines.com/). 
+  All work done here is for California Dune Science Network's Climate Action Fund project, working to standardize data collection and processing of vegetation sampling across coastal dune systems in California. For more information, visit the [Dune Science Network's Website](https://www.resilientcoastlines.com/). 
